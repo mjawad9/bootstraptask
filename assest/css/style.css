@@ -1,20 +1,5 @@
-p,h1,h2,h3,h4,h5,h6,{
-	margin: 0px;
-	padding: 0px;
-}
-.head{
-	background-color: orange;
-	border: 5px solid white;
-	padding: 2px;
-}
-.form{
-	padding: 5px;
-	 background-color: purple;
-	 color: yellow;
-	 border: 5px solid white;
-}
-.footer{
-	background-color: orange;
-	color: green;
-	border: 3px solid white;
+
+col-lg-4{
+	width: 30%;
+	height: 30%;
 }
